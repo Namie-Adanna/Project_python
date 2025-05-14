@@ -1,9 +1,7 @@
-# 📝 Project Title: COVID-19 Global Data Tracker
-
 # COVID-19 Global Data Tracker
 
 ## Project Description:
-In this project, we analyze global COVID-19 data using Python and various data visualization libraries. The goal is to explore trends in COVID-19 cases, deaths, recoveries, and vaccinations across countries and over time. The project includes data cleaning, exploration, visualization, and reporting using real-world datasets.
+In this project, I analyzed global COVID-19 data using Python and various data visualization libraries. The goal is to explore trends in COVID-19 cases, deaths, recoveries, and vaccinations across countries and over time. The project includes data cleaning, exploration, visualization, and reporting using real-world datasets.
 
 By the end of the project, you will have a data analysis report with visualizations and insights, suitable for presentation or publishing.
 
